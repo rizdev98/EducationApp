@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Education App</string>
+    <string name="invite_msg">Earn upto 1000 points / friend \nwhen the invited friends \nthe tasks</string>
+    <string name="complete_profile_msg">Fill in your basic information \nand earn 200 points</string>
+
+</resources>
